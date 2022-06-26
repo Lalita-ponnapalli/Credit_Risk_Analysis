@@ -15,7 +15,7 @@
 ![image](https://user-images.githubusercontent.com/100485119/175836645-794a345a-d98b-4bed-993a-f1e3e19f7850.png)
 
 #### Undersampling:
-###### The balance accuracy score for the Undersampling is 0.63.The classification report is given as follows. The precision for high_risk is 0.01 and for low risk is 1.00 , very low and high for the low risk, indicating an overfitting for the low_risk. The recall socre for high risk is 0.63  and low risk is 0.69 is not ideal.
+###### The balance accuracy score for the Undersampling is 0.63.The classification report is given as follows. The precision for high_risk is 0.01 and for low risk is 1.00 , very low and high for the low risk, indicating an overfitting for the low_risk. The recall socre for high risk is 0.63  and low risk is 0.55 is not ideal.
 ![image](https://user-images.githubusercontent.com/100485119/175836667-ae274c42-9077-4638-8b4e-7f75ec645c1f.png)
 
 #### Combination (Over and Under) Sampling
