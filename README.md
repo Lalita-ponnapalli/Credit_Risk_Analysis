@@ -31,6 +31,6 @@
 ![image](https://user-images.githubusercontent.com/100485119/175836718-1094e526-18d7-408b-ad2b-d4fef923c2dc.png)
 
 ### Summary:
-#### Without scaling the data, the random forest classifier model is prodcuing the most accurate model at this point, defying my prediction. models have accuracy scores less than 0.6 The precision score for the credit scores are overfit apparently. Balanced Random Forest Classifierhas balanced accuracy score is 0.78.logistic regression model will perform better for this dataset
+#### Without scaling the data, the random forest classifier model is prodcuing the most accurate model at this point, defying my prediction. models have accuracy scores less than 0.7 The precision score for the credit scores are overfit apparently. Balanced Random Forest Classifierhas balanced accuracy score is 0.78.logistic regression model will perform better for this dataset
 #### Easy Ensemble AdaBoost Classifier has the highest balance accuracy score. 
 #### More detailed model to distinguish the features need to be establlished for a better prediction.
